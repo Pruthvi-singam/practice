@@ -5,4 +5,3 @@ int main()
     printf("hello");
     return 0;
 }
-hello how are you
